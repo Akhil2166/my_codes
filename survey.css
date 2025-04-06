@@ -1,0 +1,39 @@
+body{
+    font-family:arial;
+    background-colour:lightgrey;
+    margin:auto;
+    padding:auto;
+  
+  }
+  .container{
+    maximum-width:50px;
+    padding:auto;
+    background-color:white;
+  }
+  h1{
+    color:darkgray;
+  
+  
+  }
+  p{
+    font-size:14px;
+    font-color:#666;
+  }
+  form{
+    display:inline;
+  
+  }
+  label{
+    margin:auto;
+  
+  }
+  input,select,textarea{
+    width:10%;
+    padding:auto;
+    margin:auto;
+  
+  }
+  button{
+    background-color:green;
+    
+  }
